@@ -1,0 +1,10 @@
+text("day 1")
+text("1,first i will add the background of the application")
+text("2, i will add the buttons")
+text("3,i will add the state names")
+text("4,i will add the state Mechanic association numbers")
+
+text("day 2")
+text("1.Today i have added the background")
+text("2.I have added buttons ")
+text("3.I have added input text")
